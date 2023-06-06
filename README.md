@@ -3,7 +3,10 @@
 ---
 
 ## Introduction
-As a data analyst, I have been granted access to the database file, 'GadgetSales.sql' which contains vital information about the customers, orders, order items, and products for The Gadget Store. This database, which is in SQL format, holds a wealth of information tat allows us gain a deeper understanding of this business and its oprations. 
+As a data analyst, I have been granted access to the database file, 'GadgetSales.sql' which contains vital information about the customers, orders, order items, and products for The Gadget Store. 
+
+This database, which is in SQL format, holds a wealth of information tat allows us gain a deeper understanding of this business and its oprations. 
+
 In this report, I will provide an overview of the database and present key insights following questions asked by The Gadget Store's stakeholders.
 
 ---
