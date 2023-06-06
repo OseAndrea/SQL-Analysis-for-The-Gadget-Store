@@ -64,4 +64,5 @@ The Gadget Store should also focus on products that sell in large quantites (lik
 
 ---
 ![Happy Business Man](https://images.pexels.com/photos/6285173/pexels-photo-6285173.jpeg?auto=compress&cs=tinysrgb&w=400)
+
 As predicted, this database provided brilliant insights to understanding the market and sales structure for The Gadget Store. The results here will be invaluable to Mr. Chinedu in making stellar business decisons.
