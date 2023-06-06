@@ -3,7 +3,7 @@
 ---
 
 ## Introduction
-As a data analyst, I have been granted access to the database file, 'GadgetSales.sql' which contains vital information about the customers, orders, order items, and products for The Gadget Store. 
+As a data analyst, I have been granted access to the database file, 'GadgetSales.sql' which contains vital information about the customers, orders, order items, and products for The Gadget Store owned by Mr. Chinedu. 
 
 This database, which is in SQL format, holds a wealth of information tat allows us gain a deeper understanding of this business and its oprations. 
 
@@ -33,7 +33,7 @@ In this report, I will provide an overview of the database and present key insig
 3. The top three most expensive gadgets are Canon EOS R6, SOny Alpha a7 III, and LG OLED C1 Series.
 ![Q3](https://github.com/OseAndrea/SQL-Analysis-for-The-Gadget-Store/assets/130297747/23d3ef76-9117-4edc-9c55-450f1f108c6c)
 
-4. The top three customers that spent the most are MAria Rodriguez, Brian Davis, and Jacob Chen.
+4. The top three customers that spent the most are Maria Rodriguez, Brian Davis, and Jacob Chen.
 ![Q4](https://github.com/OseAndrea/SQL-Analysis-for-The-Gadget-Store/assets/130297747/0c3c178f-8848-4610-9fd7-148b65972a3f)
 
 5. The order date withthe least quantity of gadget sold was 3rd of March, 2022.
@@ -51,11 +51,17 @@ In this report, I will provide an overview of the database and present key insig
 9. The customer who bought the most iPhone 13 is John Smith.
 ![Q9](https://github.com/OseAndrea/SQL-Analysis-for-The-Gadget-Store/assets/130297747/4acb441b-a305-4121-8c7b-36bf84fecf9a)
 
-10. The cheapest device with the most quantity is 
+10. The cheapest device with the most quantity is Amazon EchoDot (4th Gen)
 ![Q10a](https://github.com/OseAndrea/SQL-Analysis-for-The-Gadget-Store/assets/130297747/1620cfb2-206a-43b4-826d-4d965a5cd641)
-while the most expensive device with the most quantity is
+while the most expensive device with the most quantity is Canon EOS R6
 ![Q10b](https://github.com/OseAndrea/SQL-Analysis-for-The-Gadget-Store/assets/130297747/46621209-3da5-4d04-8036-68b7e15b437c)
 
+---
+## Insights & Conclusion
+From this analysis, we can deduce that our top customers who spend the most do not necessarily buy the most quantity. From the last question, we can also see that price is not a major factor when considering the purchasing power for most customers. We can see that even though the Canon is over 1000% more expensive that the EchoDot, it has more quantities sold.
 
+The Gadget Store should also focus on products that sell in large quantites (like Pro HERO10, Samsung QN90A, Samsung Galaxy S21, and Canon EOS R6) and high prices rather than products like Logitech MX Master 3, Garmin Venu 2, and LG OLED C1 Series which sell in low quantites. Products that sell in large quantities show high level of market demand and include a promise of profitable market.
 
-
+---
+![Happy Business Man](https://images.pexels.com/photos/6285173/pexels-photo-6285173.jpeg?auto=compress&cs=tinysrgb&w=400)
+As predicted, this database provided brilliant insights to understanding the market and sales structure for The Gadget Store. The results here will be invaluable to Mr. Chinedu in making stellar business decisons.
