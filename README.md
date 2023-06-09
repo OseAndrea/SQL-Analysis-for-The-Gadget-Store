@@ -33,11 +33,11 @@ In this report, I will provide an overview of the database and present key insig
 3. The top three most expensive gadgets are Canon EOS R6, SOny Alpha a7 III, and LG OLED C1 Series.
 ![Q3](https://github.com/OseAndrea/SQL-Analysis-for-The-Gadget-Store/assets/130297747/23d3ef76-9117-4edc-9c55-450f1f108c6c)
 
-4. The top three customers that spent the most are Maria Rodriguez, Brian Davis, and Jacob Chen.
-![Q4](https://github.com/OseAndrea/SQL-Analysis-for-The-Gadget-Store/assets/130297747/0c3c178f-8848-4610-9fd7-148b65972a3f)
+4. The top three customers that spent the most are Megan Smith, Andrew Chen, and Tommy Baker.
+![Q4](https://github.com/OseAndrea/SQL-Analysis-for-The-Gadget-Store/assets/130297747/873052d9-e40e-4bee-9d9d-af260bd33ee6)
 
-5. The order date withthe least quantity of gadget sold was 3rd of March, 2022.
-![Q5](https://github.com/OseAndrea/SQL-Analysis-for-The-Gadget-Store/assets/130297747/26e1f1f0-93b9-4f16-bf8d-1696e2468ecd)
+5. The order date with the least quantity of gadget sold was 2nd of February, 2022.
+![Q5](https://github.com/OseAndrea/SQL-Analysis-for-The-Gadget-Store/assets/130297747/9fa9df8b-07f3-42a0-bbc2-67df7591b754)
 
 6. The customer who had the most orders by quantity is Megan Smith.
 ![Q6](https://github.com/OseAndrea/SQL-Analysis-for-The-Gadget-Store/assets/130297747/c70a11fc-656c-4927-a6c5-80468332d99d)
@@ -58,7 +58,7 @@ while the most expensive device with the most quantity is Canon EOS R6
 
 ---
 ## Insights & Conclusion
-From this analysis, we can deduce that our top customers who spend the most do not necessarily buy the most quantity. From the last question, we can also see that price is not a major factor when considering the purchasing power for most customers. We can see that even though the Canon is over 1000% more expensive that the EchoDot, it has more quantities sold.
+From this analysis, we can deduce that our top customers who spend the most is also the one who buys the most quantity. From the last question, we can also see that price is not a major factor when considering the purchasing power for most customers. We can see that even though the Canon is over 1000% more expensive that the EchoDot, it has more quantities sold.
 
 The Gadget Store should also focus on products that sell in large quantites (like Pro HERO10, Samsung QN90A, Samsung Galaxy S21, and Canon EOS R6) and high prices rather than products like Logitech MX Master 3, Garmin Venu 2, and LG OLED C1 Series which sell in low quantites. Products that sell in large quantities show high level of market demand and include a promise of profitable market.
 
