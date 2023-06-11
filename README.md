@@ -46,10 +46,10 @@ In this report, I will provide an overview of the database and present key insig
 ![Q7](https://github.com/OseAndrea/SQL-Analysis-for-The-Gadget-Store/assets/130297747/a057d265-31f4-466c-951f-b6c5a6856924)
 
 8. iPad PRo had the most sales by quantity on the 14th of April, 2022.
-![Q8](https://github.com/OseAndrea/SQL-Analysis-for-The-Gadget-Store/assets/130297747/bef78881-b7cd-483c-9a21-3e8bea4c4e6f)
+![Q8](https://github.com/OseAndrea/SQL-Analysis-for-The-Gadget-Store/assets/130297747/288af481-90b4-4fdf-9a2b-4836bfc28ccb)
 
 9. The customer who bought the most iPhone 13 is John Smith.
-![Q9](https://github.com/OseAndrea/SQL-Analysis-for-The-Gadget-Store/assets/130297747/4acb441b-a305-4121-8c7b-36bf84fecf9a)
+![Q9](https://github.com/OseAndrea/SQL-Analysis-for-The-Gadget-Store/assets/130297747/476998c5-7d86-4750-b069-ac67a4fe6a47)
 
 10. The cheapest device with the most quantity is Amazon EchoDot (4th Gen)
 ![Q10a](https://github.com/OseAndrea/SQL-Analysis-for-The-Gadget-Store/assets/130297747/1620cfb2-206a-43b4-826d-4d965a5cd641)
